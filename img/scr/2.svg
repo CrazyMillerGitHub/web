@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="667px" viewBox="0 0 375 667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>iPhone 7 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="24.8737406" y="128.195432" width="77.0129277" height="30.6138346" rx="15"></rect>
+        <filter x="-9.1%" y="-16.3%" width="118.2%" height="145.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.996078431   0 0 0 0 0.180392157   0 0 0 0 0.333333333  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,401.007936 C0,391.062428 8.04954503,383 17.9922404,383 L357.00776,383 C366.9446,383 375,391.060922 375,401.007936 L375,667 L0,667 L0,401.007936 Z" id="path-3"></path>
+        <filter x="-18.7%" y="-17.6%" width="137.3%" height="149.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="iPhone-7-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="375" height="667"></rect>
+        <g id="Group-2" transform="translate(8.000000, 20.000000)">
+            <path d="M0,7.99581828 C0,3.57984978 3.57760494,0 8.00252222,0 L351.997478,0 C356.417149,0 360,3.58864206 360,7.99581828 L360,638.112637 L0,638.112637 L0,7.99581828 Z" id="Rectangle-3" fill="#FFFFFF"></path>
+            <text id="Search" font-family="SFProText-Bold, SF Pro Text" font-size="16" font-weight="bold" letter-spacing="-0.610000014" fill="#000000">
+                <tspan x="153.09075" y="46.5705169">Search</tspan>
+            </text>
+            <g id="Search-result-1-" transform="translate(16.263600, 193.249831)">
+                <text id="0,20-xp-every-minute" font-family="SFProDisplay-Regular, SF Pro Display" font-size="12" font-weight="normal" letter-spacing="-0.2894117">
+                    <tspan x="23.9170583" y="40.7004699" fill="#000000">0,20</tspan>
+                    <tspan x="46.9176146" y="40.7004699" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300" fill="#4A4A4A"> </tspan>
+                    <tspan x="49.083281" y="40.7004699" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="400" fill="#2DCA5F">xp</tspan>
+                    <tspan x="61.166567" y="40.7004699" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300" fill="#4A4A4A"> </tspan>
+                    <tspan x="63.3322334" y="40.7004699" fill="#000000">every minute</tspan>
+                </text>
+                <g id="Rating" transform="translate(5.740094, 27.743788)">
+                    <circle id="rateOval" fill="#FE2E55" cx="7.65345865" cy="7.65345865" r="7.65345865"></circle>
+                    <text id="A" font-family="SFProDisplay-Bold, SF Pro Display" font-size="12" font-weight="bold" letter-spacing="-0.2894117" fill="#F8F8F8">
+                        <tspan x="3.82672933" y="12">A</tspan>
+                    </text>
+                </g>
+                <text id="Football" font-family="SFProText-Bold, SF Pro Text" font-size="18" font-weight="bold" letter-spacing="-0.4341176" fill="#000000">
+                    <tspan x="0.478341166" y="17">Football</tspan>
+                </text>
+            </g>
+            <g id="Search-result-2" transform="translate(17.220282, 284.134652)">
+                <text id="0,20-xp-every-minute" font-family="SFProDisplay-Regular, SF Pro Display" font-size="12" font-weight="normal" letter-spacing="-0.2894117">
+                    <tspan x="22.0036936" y="40.7004699" fill="#000000">0,20</tspan>
+                    <tspan x="45.0042499" y="40.7004699" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300" fill="#4A4A4A"> </tspan>
+                    <tspan x="47.1699164" y="40.7004699" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="400" fill="#2DCA5F">xp</tspan>
+                    <tspan x="59.2532023" y="40.7004699" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300" fill="#4A4A4A"> </tspan>
+                    <tspan x="61.4188688" y="40.7004699" fill="#000000">every minute</tspan>
+                </text>
+                <g id="Rating" transform="translate(3.826729, 27.743788)">
+                    <circle id="rateOval" fill="#FE2E55" cx="7.65345865" cy="7.65345865" r="7.65345865"></circle>
+                    <text id="A" font-family="SFProDisplay-Bold, SF Pro Display" font-size="12" font-weight="bold" letter-spacing="-0.2894117" fill="#F8F8F8">
+                        <tspan x="3.82672933" y="12">A</tspan>
+                    </text>
+                </g>
+                <text id="Basketball" font-family="SFProText-Bold, SF Pro Text" font-size="18" font-weight="bold" letter-spacing="-0.4341176" fill="#000000">
+                    <tspan x="0" y="17">Basketball</tspan>
+                </text>
+            </g>
+            <g id="Search-result-3" transform="translate(17.220282, 374.062792)">
+                <text id="0,20-xp-every-minute" font-family="SFProDisplay-Regular, SF Pro Display" font-size="12" font-weight="normal" letter-spacing="-0.2894117">
+                    <tspan x="39.0444603" y="40.7004699" fill="#4A4A4A">0,20</tspan>
+                    <tspan x="62.0450166" y="40.7004699" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300" fill="#4A4A4A"> </tspan>
+                    <tspan x="64.210683" y="40.7004699" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="400" fill="#44DB5E">xp</tspan>
+                    <tspan x="76.293969" y="40.7004699" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300" fill="#4A4A4A"> </tspan>
+                    <tspan x="78.4596354" y="40.7004699" fill="#4A4A4A">every </tspan>
+                    <tspan x="55.4602303" y="54.7004699" fill="#4A4A4A">minute</tspan>
+                </text>
+                <g id="Rating" transform="translate(3.826729, 27.743788)">
+                    <circle id="rateOval" fill="#FE3824" cx="7.65345865" cy="7.65345865" r="7.65345865"></circle>
+                    <text id="A" font-family="SFProDisplay-Bold, SF Pro Display" font-size="12" font-weight="bold" letter-spacing="-0.2894117" fill="#F8F8F8">
+                        <tspan x="3.82672933" y="12">A</tspan>
+                    </text>
+                </g>
+                <text id="Volleyball" font-family="SFProText-Bold, SF Pro Text" font-size="18" font-weight="bold" letter-spacing="-0.4341176" fill="#000000">
+                    <tspan x="0.478341166" y="17">Volleyball</tspan>
+                </text>
+            </g>
+            <g id="Search-result-4" transform="translate(18.176964, 465.904295)">
+                <text id="0,20-xp-every-minute" font-family="SFProDisplay-Regular, SF Pro Display" font-size="12" font-weight="normal" letter-spacing="-0.2894117">
+                    <tspan x="21.0470113" y="40.7004699" fill="#4A4A4A">0,20</tspan>
+                    <tspan x="44.0475676" y="40.7004699" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300" fill="#4A4A4A"> </tspan>
+                    <tspan x="46.213234" y="40.7004699" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="400" fill="#44DB5E">xp</tspan>
+                    <tspan x="58.29652" y="40.7004699" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300" fill="#4A4A4A"> </tspan>
+                    <tspan x="60.4621864" y="40.7004699" fill="#4A4A4A">every minute</tspan>
+                </text>
+                <g id="Rating" transform="translate(2.870047, 27.743788)">
+                    <circle id="rateOval" fill="#FE3824" cx="7.65345865" cy="7.65345865" r="7.65345865"></circle>
+                    <text id="A" font-family="SFProDisplay-Bold, SF Pro Display" font-size="12" font-weight="bold" letter-spacing="-0.2894117" fill="#F8F8F8">
+                        <tspan x="3.82672933" y="12">A</tspan>
+                    </text>
+                </g>
+                <text id="Table-Tennis" font-family="SFProText-Bold, SF Pro Text" font-size="18" font-weight="bold" letter-spacing="-0.4341176" fill="#000000">
+                    <tspan x="0" y="17">Table Tennis</tspan>
+                </text>
+            </g>
+            <g id="Search-result-5" transform="translate(17.220282, 556.789117)">
+                <text id="0,20-xp-every-minute" font-family="SFProDisplay-Regular, SF Pro Display" font-size="12" font-weight="normal" letter-spacing="-0.2894117">
+                    <tspan x="21.5253525" y="40.7004699" fill="#525252">0,20 </tspan>
+                    <tspan x="46.6974346" y="40.7004699" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="400" fill="#44DB5E">xp</tspan>
+                    <tspan x="58.7807206" y="40.7004699" fill="#525252"> every minute</tspan>
+                </text>
+                <g id="Rating" transform="translate(3.826729, 27.743788)">
+                    <circle id="rateOval" fill="#65B3FC" cx="7.65345865" cy="7.65345865" r="7.65345865"></circle>
+                    <text id="A" font-family="SFProDisplay-Bold, SF Pro Display" font-size="12" font-weight="bold" letter-spacing="-0.2894117" fill="#F8F8F8">
+                        <tspan x="3.82672933" y="12">A</tspan>
+                    </text>
+                </g>
+                <text id="Golf" font-family="SFProText-Bold, SF Pro Text" font-size="18" font-weight="bold" letter-spacing="-0.4341176" fill="#000000">
+                    <tspan x="0.478341166" y="17">Golf</tspan>
+                </text>
+            </g>
+            <path d="M329.614594,227.632258 C329.518926,227.632258 329.423258,227.632258 329.423258,227.53659 C329.231921,227.440921 329.136253,227.058248 329.231921,226.866912 L336.407039,213.282023 L329.136253,199.697134 C329.040585,199.410129 329.136253,199.123124 329.32759,199.027456 C329.614594,198.931788 329.901599,199.027456 329.997267,199.218793 L337.363721,213.090686 C337.459389,213.282023 337.459389,213.377691 337.363721,213.569028 L329.997267,227.345253 C329.901599,227.53659 329.805931,227.632258 329.614594,227.632258 L329.614594,227.632258 L329.614594,227.632258 Z" id="Shape" fill-opacity="0.2" fill="#000000"></path>
+            <g id="Rectangle-9">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FE2E55" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-3" transform="translate(39.913572, 135.707379)" fill="#FFFFFF" font-family="Futura-Medium, Futura" font-size="12" font-weight="400" letter-spacing="-0.2894118">
+                <text id="Favourite">
+                    <tspan x="0.02500935" y="12">Favourite</tspan>
+                </text>
+            </g>
+            <path d="M101.408327,143.188458 C101.408327,134.908039 108.124775,128.195432 116.417122,128.195432 L163.41246,128.195432 C171.701589,128.195432 178.421255,134.913768 178.421255,143.188458 L178.421255,143.816242 C178.421255,152.096661 171.704807,158.809267 163.41246,158.809267 L116.417122,158.809267 C108.127993,158.809267 101.408327,152.090931 101.408327,143.816242 L101.408327,143.188458 Z" id="Rectangle-9"></path>
+            <g id="Group-3" transform="translate(117.914517, 135.707379)" fill="#7F7F7F" font-family="Futura-Medium, Futura" font-size="12" font-weight="400" letter-spacing="-0.2894118">
+                <text id="Effective">
+                    <tspan x="0.512314037" y="12">Effective</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-9" x="177.942914" y="128.195432" width="77.0129277" height="30.6138346" rx="15"></rect>
+            <g id="Group-3" transform="translate(190.953500, 135.707379)" fill="#7F7F7F" font-family="Futura-Medium, Futura" font-size="12" font-weight="400" letter-spacing="-0.2894118">
+                <text id="Popular">
+                    <tspan x="5.13598817" y="12">Popular</tspan>
+                </text>
+            </g>
+            <polygon id="Page-1" fill="#000000" points="30.6138346 34.4405639 23.0201686 42.0940226 30.6138346 49.7474812 28.7004699 51.6608459 19.1336466 42.0940226 28.7004699 32.5271993"></polygon>
+            <path d="M329.614594,319.473762 C329.518926,319.473762 329.423258,319.473762 329.423258,319.378093 C329.231921,319.282425 329.136253,318.899752 329.231921,318.708416 L336.407039,305.123527 L329.136253,291.538638 C329.040585,291.251633 329.136253,290.964628 329.32759,290.86896 C329.614594,290.773292 329.901599,290.86896 329.997267,291.060296 L337.363721,304.93219 C337.459389,305.123527 337.459389,305.219195 337.363721,305.410531 L329.997267,319.186757 C329.901599,319.378093 329.805931,319.473762 329.614594,319.473762 L329.614594,319.473762 L329.614594,319.473762 Z" id="Shape" fill-opacity="0.2" fill="#000000"></path>
+            <path d="M329.614594,409.401901 C329.518926,409.401901 329.423258,409.401901 329.423258,409.306233 C329.231921,409.210564 329.136253,408.827891 329.231921,408.636555 L336.407039,395.051666 L329.136253,381.466777 C329.040585,381.179772 329.136253,380.892767 329.32759,380.797099 C329.614594,380.701431 329.901599,380.797099 329.997267,380.988436 L337.363721,394.860329 C337.459389,395.051666 337.459389,395.147334 337.363721,395.33867 L329.997267,409.114896 C329.901599,409.306233 329.805931,409.401901 329.614594,409.401901 L329.614594,409.401901 L329.614594,409.401901 Z" id="Shape" fill-opacity="0.2" fill="#000000"></path>
+            <path d="M329.614594,500.286722 C329.518926,500.286722 329.423258,500.286722 329.423258,500.191054 C329.231921,500.095386 329.136253,499.712713 329.231921,499.521376 L336.407039,485.936487 L329.136253,472.351598 C329.040585,472.064593 329.136253,471.777589 329.32759,471.681921 C329.614594,471.586252 329.901599,471.681921 329.997267,471.873257 L337.363721,485.745151 C337.459389,485.936487 337.459389,486.032156 337.363721,486.223492 L329.997267,499.999718 C329.901599,500.191054 329.805931,500.286722 329.614594,500.286722 L329.614594,500.286722 L329.614594,500.286722 Z" id="Shape" fill-opacity="0.2" fill="#000000"></path>
+            <path d="M329.614594,591.171544 C329.518926,591.171544 329.423258,591.171544 329.423258,591.075876 C329.231921,590.980207 329.136253,590.597534 329.231921,590.406198 L336.407039,576.821309 L329.136253,563.23642 C329.040585,562.949415 329.136253,562.66241 329.32759,562.566742 C329.614594,562.471074 329.901599,562.566742 329.997267,562.758079 L337.363721,576.629972 C337.459389,576.821309 337.459389,576.916977 337.363721,577.108313 L329.997267,590.884539 C329.901599,591.075876 329.805931,591.171544 329.614594,591.171544 L329.614594,591.171544 L329.614594,591.171544 Z" id="Shape" fill-opacity="0.2" fill="#000000"></path>
+        </g>
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+        <g id="Group-5" transform="translate(233.000000, 435.000000)" fill="#FE2E55">
+            <path d="M0.256410256,5.78725464 C0.256410256,4.28674545 0.796908731,3.00406938 1.87792171,1.93919014 C2.9589347,0.874310889 4.23354223,0.341880342 5.70178455,0.341880342 C7.54112006,0.341880342 9.01740641,1.1082593 10.130689,2.64103838 C10.6469952,1.93111888 11.280265,1.37045407 12.0305196,0.959022762 C12.7807742,0.547591457 13.559254,0.341880342 14.3659801,0.341880342 C15.8826258,0.341880342 17.1693344,0.870278287 18.2261454,1.9270893 C19.2829565,2.98390032 19.8113544,4.27060899 19.8113544,5.78725464 C19.8113544,7.86860678 19.1417821,9.57884154 17.8026163,10.9180073 C17.31858,11.418177 16.4997651,12.1038858 15.3461475,12.9751487 C14.1925298,13.8464128 13.1236331,14.624892 12.1394271,15.3106092 C11.155221,15.9963265 10.6550574,16.3472471 10.6389239,16.3633816 C10.348504,16.5085923 10.1468254,16.5811966 10.0338823,16.5811966 C9.92093922,16.5811966 9.7192607,16.5085923 9.42884074,16.3633816 C9.39657085,16.3311126 8.89237457,15.9721248 7.91623677,15.2864076 C6.94009897,14.6006904 5.87523485,13.8222112 4.72161718,12.950947 C3.56799951,12.0796841 2.74918402,11.4020436 2.26514833,10.9180073 C0.925982858,9.57884154 0.256410256,7.86860678 0.256410256,5.78725464 Z" id="Page-1"></path>
+        </g>
+        <path d="M172,398.5 C172,397.119288 173.120134,396 174.497658,396 L201.502342,396 C202.881761,396 204,397.109662 204,398.5 L204,398.5 C204,399.880712 202.874911,401 201.5,401 L190.5,401 C189.119288,401 186.874911,401 185.5,401 L174.5,401 C173.119288,401 172,399.890338 172,398.5 L172,398.5 Z" id="Rectangle-6" fill="#DEDEDE"></path>
+        <text id="32-xp-per-min" font-family="SFProText-Semibold, SF Pro Text" font-size="14" font-weight="500" letter-spacing="0.4744445" fill="#000000">
+            <tspan x="137.490818" y="526">32 xp per min</tspan>
+        </text>
+        <rect id="Rectangle-9" stroke="#FE2E55" stroke-width="2" fill="#FFFFFF" x="115" y="576" width="145.567568" height="40" rx="15"></rect>
+        <text id="Start" font-family="SFProDisplay-Heavy, SF Pro Display" font-size="18" font-weight="600" letter-spacing="0.610000014" fill="#FE2E55">
+            <tspan x="164.556055" y="601">Start</tspan>
+        </text>
+        <text id="Football" font-family="SFProDisplay-Heavy, SF Pro Display" font-size="19" font-weight="600" letter-spacing="1" fill="#000000">
+            <tspan x="147.07251" y="450">Football</tspan>
+        </text>
+        <text id="00:00:00" font-family="SFProDisplay-Heavy, SF Pro Display" font-size="32" font-weight="600" letter-spacing="1.084445" fill="#FE2E55">
+            <tspan x="108.927845" y="504">00:00:00</tspan>
+        </text>
+        <g id="Group-4" transform="translate(6.000000, 5.000000)" fill="#FFFFFF">
+            <g id="Pin-Right" transform="translate(303.000000, 0.000000)">
+                <path d="M57.0062872,2.5 C57.8266197,2.5 58.5,3.17394722 58.5,4.00530324 L58.5,4.00530324 L58.5,10.4946968 C58.5,11.3319784 57.831242,12 57.0062872,12 L57.0062872,12 L37.4937128,12 C36.6733803,12 36,11.3260528 36,10.4946968 L36,10.4946968 L36,4.00530324 C36,3.16802155 36.668758,2.5 37.4937128,2.5 L37.4937128,2.5 Z M56.9918476,3 L37.5081524,3 C36.9513652,3 36.5,3.45699692 36.5,4.00844055 L36.5,10.4915594 C36.5,11.0485058 36.9490581,11.5 37.5081524,11.5 L56.9918476,11.5 C57.5486348,11.5 58,11.0430031 58,10.4915594 L58,4.00844055 C58,3.45149422 57.5509419,3 56.9918476,3 Z M56.9932556,3.5 C57.2697754,3.5 57.5,3.72031886 57.5,3.99209595 L57.5,3.99209595 L57.5,10.5079041 C57.5,10.783628 57.2731228,11 56.9932556,11 L56.9932556,11 L37.5067444,11 C37.2302246,11 37,10.7796811 37,10.5079041 L37,10.5079041 L37,3.99209595 C37,3.71637201 37.2268772,3.5 37.5067444,3.5 L37.5067444,3.5 Z M59.75,5.5 C60.1671014,5.5 60.5,5.83232111 60.5,6.24225998 L60.5,6.24225998 L60.5,8.25774002 C60.5,8.66440529 60.1642136,9 59.75,9 L59.75,9 L59,9 L59,5.5 Z" id="Battery"></path>
+                <text id="100%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal">
+                    <tspan x="2.20898438" y="12.5">100%</tspan>
+                </text>
+            </g>
+            <text id="9:41-AM" font-family="SFProText-Semibold, SF Pro Text" font-size="12" font-weight="500">
+                <tspan x="157.239258" y="12">9:41 AM</tspan>
+            </text>
+            <g id="Pin-Left">
+                <path d="M87.987563,8.46891192 C88.8523616,8.46891192 89.626374,8.84544555 90.1444208,9.43850432 L90.1444208,9.43850432 L88.0225391,11.5 L85.8601652,9.40531769 C86.3778594,8.83143413 87.1390073,8.46891192 87.987563,8.46891192 Z M87.987563,5.48445596 C89.7014387,5.48445596 91.2447794,6.19174563 92.3234964,7.32144245 L92.3234964,7.32144245 L91.2346215,8.37932931 C90.4356305,7.51823504 89.2768836,6.97668394 87.987563,6.97668394 C86.713648,6.97668394 85.567205,7.5053708 84.7692987,8.34859996 L84.7692987,8.34859996 L83.6792698,7.29269359 C84.7566264,6.17975893 86.2882723,5.48445596 87.987563,5.48445596 Z M87.987563,2.5 C90.5505699,2.5 92.8629578,3.53943672 94.5,5.20687933 L94.5,5.20687933 L93.4118698,6.26404272 C92.0538809,4.86552609 90.1260026,3.99222798 87.987563,3.99222798 C85.8628921,3.99222798 83.9460798,4.85431655 82.5895579,6.23709441 L82.5895579,6.23709441 L81.5,5.18164431 C83.1355496,3.52895605 85.4375103,2.5 87.987563,2.5 Z" id="Wi-Fi"></path>
+                <text id="Carrier" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal">
+                    <tspan x="38" y="12.5">Future</tspan>
+                </text>
+                <path d="M3.25,4.5 C4.76878306,4.5 6,5.73121694 6,7.25 C6,8.76878306 4.76878306,10 3.25,10 C1.73121694,10 0.5,8.76878306 0.5,7.25 C0.5,5.73121694 1.73121694,4.5 3.25,4.5 Z M10.25,4.5 C11.7687831,4.5 13,5.73121694 13,7.25 C13,8.76878306 11.7687831,10 10.25,10 C8.73121694,10 7.5,8.76878306 7.5,7.25 C7.5,5.73121694 8.73121694,4.5 10.25,4.5 Z M17.25,4.5 C18.7687831,4.5 20,5.73121694 20,7.25 C20,8.76878306 18.7687831,10 17.25,10 C15.7312169,10 14.5,8.76878306 14.5,7.25 C14.5,5.73121694 15.7312169,4.5 17.25,4.5 Z M24.25,4.5 C25.7687831,4.5 27,5.73121694 27,7.25 C27,8.76878306 25.7687831,10 24.25,10 C22.7312169,10 21.5,8.76878306 21.5,7.25 C21.5,5.73121694 22.7312169,4.5 24.25,4.5 Z M31.25,4.5 C32.7687831,4.5 34,5.73121694 34,7.25 C34,8.76878306 32.7687831,10 31.25,10 C29.7312169,10 28.5,8.76878306 28.5,7.25 C28.5,5.73121694 29.7312169,4.5 31.25,4.5 Z" id="Mobile-Signal"></path>
+            </g>
+        </g>
+        <g id="Group-6" transform="translate(175.000000, 634.000000)">
+            <circle id="Oval-6" fill="#000000" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-6" fill="#D8D8D8" cx="22" cy="4" r="4"></circle>
+        </g>
+        <g id="search" transform="translate(39.000000, 92.000000)">
+            <path d="M10,0 L289,0 C294.522847,-1.01453063e-15 299,4.4771525 299,10 L299,26 C299,31.5228475 294.522847,36 289,36 L10,36 C4.4771525,36 6.76353751e-16,31.5228475 0,26 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="input" fill="#DDDEE0"></path>
+            <text id="Search" font-family="SFProText-Regular, SF Pro Text" font-size="17" font-weight="normal" letter-spacing="-0.5" fill="#8D8D94">
+                <tspan x="31" y="24">Search</tspan>
+            </text>
+            <path d="M14.517332,11 C17.5644703,11 20.034664,13.4272595 20.034664,16.4214359 C20.034664,17.5600785 19.6774313,18.6167351 19.067087,19.4890946 L22.7250961,23.1480093 C23.110042,23.5329552 23.110042,24.1570758 22.7250961,24.5420217 C22.3401502,24.9269676 21.7160296,24.9269676 21.3310837,24.5420217 L17.6639941,20.8753007 C16.7714736,21.4852831 15.6869011,21.8428717 14.517332,21.8428717 C11.4701937,21.8428717 9,19.4156122 9,16.4214359 C9,13.4272595 11.4701937,11 14.517332,11 Z M14.517332,11.9857156 C12.0242188,11.9857156 10.0031513,13.9716552 10.0031513,16.4214359 C10.0031513,18.8712165 12.0242188,20.8571561 14.517332,20.8571561 C17.0104451,20.8571561 19.0315127,18.8712165 19.0315127,16.4214359 C19.0315127,13.9716552 17.0104451,11.9857156 14.517332,11.9857156 Z" fill="#8E8E93" opacity="0.900000036"></path>
+        </g>
+    </g>
+</svg>
